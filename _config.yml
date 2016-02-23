@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            nathraQ
+tagline:          'sudo make sandwich'
+description:      'talk about coding stuff. '
+baseurl:          /
+
+author:
+  name:           'nathraq'
+  url:            https://github.com/nathraq
+
+paginate:         5
+gems:
+  - jekyll-paginate
+# Custom vars
+
